@@ -1,0 +1,7 @@
+D:\C#Console\chap17Generics\bin\Debug\chap17Generics.exe.config
+D:\C#Console\chap17Generics\bin\Debug\chap17Generics.exe
+D:\C#Console\chap17Generics\bin\Debug\chap17Generics.pdb
+D:\C#Console\chap17Generics\obj\Debug\chap17Generics.csprojAssemblyReference.cache
+D:\C#Console\chap17Generics\obj\Debug\chap17Generics.csproj.CoreCompileInputs.cache
+D:\C#Console\chap17Generics\obj\Debug\chap17Generics.exe
+D:\C#Console\chap17Generics\obj\Debug\chap17Generics.pdb
